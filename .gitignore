@@ -1,0 +1,13 @@
+node_modules
+config.env
+appV1.js
+/controllers/authControllerV1.js
+/controllers/tourControllerV1withoutCatchAsync.js
+/controllers/tourControllerV2.js
+/controllers/userControllerCopy.js
+/dev-data
+
+/models/reviewModelCopy.js
+/models/tourModelCopy.js
+
+/routes/tourRoutesCopy.js
